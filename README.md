@@ -1,2 +1,4 @@
-# garden-club-data-
-A project where I collect and analyze data in SQL and Excel for a garden club
+--Dataset: Wisconsin Garden Club Summer Series
+--Source: First Party Data
+--Queried using: Microsoft SQL Server Management Studio
+
