@@ -43,6 +43,7 @@ My initial idea was to create one large dataset combining all events into one. W
 Good thing too because a large, combined spreadsheet to query in the beginning was asking for trouble. Some events were priced differently than others due to our membership discounts vs. general admission. Some events are ranged between $5, $10, $30, $40, and $50. I split the data into three datasets based on the range of the ticket prices to maintain accurate totals.
 
 <b>Excel</b>: cleaning and fixing the .csv: All cells needed a value to avoid future difficulties in SQL. Any blanks in the spreadsheet were filled with a value such as ‘NonMember’ or ‘none’.</br>
+
 ![test](https://github.com/jevmax/Garden-Club-Data-Collection/blob/main/images/sql_1_1.png?raw=true)
 
  
