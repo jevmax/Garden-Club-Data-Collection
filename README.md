@@ -52,6 +52,7 @@ Good thing too because a large, combined spreadsheet to query in the beginning w
 Formation of my results 
 ---
 So what were the key results?</br>
+![](https://github.com/jevmax/Garden-Club-Data-Collection/blob/main/images/visuals_sample.png?raw=true)
 
 •	‘Kn24’, ‘Ba24’, and ‘Dan19’ are the top three events earning $2415, $2230, and $1790 respectively. The attendance figures for each of those events had a very good turnout with each of them having over 200 attendees each.</br>
 •	General Admission made up 77% of the 1800 attendees across all events. </br>
@@ -72,7 +73,7 @@ Other results I was able to query in SQL:</br>
 (267 of 269. 2 did not attend due to their events being cancelled)</br>
 
 
-Event Earnings: I chose the waterfall graph over a bar or pie graph because it shows, out of the total earnings, what event performed better and in what financial range the ticket sales came in. Thinking of the garden club member who doesn’t wish to be caught up with graphs, I wanted them to get the gist of where a specific event landed financially, giving me a chance to walk through the results with them. 
+Event Earnings: I chose the waterfall graph over a bar or pie graph because it shows, out of the total earnings, what event performed better and in what financial range the ticket sales came in. <b> Thinking of the garden club member who doesn’t wish to be caught up with graphs, I wanted them to get the gist of where a specific event landed financially, giving me a chance to walk through the results with them. </b>
 
 
 What can we make of the results?
