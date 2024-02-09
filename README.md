@@ -74,7 +74,10 @@ Other results I was able to query in SQL:</br>
 
 
 Event Earnings: I chose the waterfall graph over a bar or pie graph because it shows, out of the total earnings, what event performed better and in what financial range the ticket sales came in. <b> Thinking of the garden club member who doesn’t wish to be caught up with graphs, I wanted them to get the gist of where a specific event landed financially, giving me a chance to walk through the results with them. </b>
-
+![](https://github.com/jevmax/Garden-Club-Data-Collection/blob/main/images/sql_1_2.png?raw=true)
+</br>
+![](https://github.com/jevmax/Garden-Club-Data-Collection/blob/main/images/sql_1_4.png?raw=true)
+</br>
 
 What can we make of the results?
 ---
