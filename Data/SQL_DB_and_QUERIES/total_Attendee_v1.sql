@@ -1,17 +1,18 @@
-Select *
+-- combining the tables first and only grabbing members only
+SELECT *
 from summer_Series.dbo.fiveTen
 
 UNION 
-Select *
+SELECT *
 from summer_Series.dbo.thirtyForty
 
 UNION 
-Select *
+SELECT *
 from summer_Series.dbo.fortyfiveFifty
 ;
 
 
--- combining the tables first and only grabbing members only
+
 
 
 
