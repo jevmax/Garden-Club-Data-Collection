@@ -70,15 +70,16 @@ Other results I was able to query in SQL:
 •	Total amount of members among the attendees:
 (267 of 269. 2 did not attend due to their events being cancelled)</br>
 
-  
-I was far more comfortable using pivot tables and simple visualizations to communicate the results this garden club wanted. I originally wanted to use Tableau public but: a) to match what I made in Excel would take far more effort with the time I had and b) I’d be more inclined to see how things would look more visually appealing compared to showing the actual results. 
+
 Event Earnings: I chose the waterfall graph over a bar or pie graph because it shows, out of the total earnings, what event performed better and in what financial range the ticket sales came in. Thinking of the garden club member who doesn’t wish to be caught up with graphs, I wanted them to get the gist of where a specific event landed financially, giving me a chance to walk through the results with them. 
 
 
 What can we make of the results?
 ---
 • The key findings show that this year’s collection of properties have been a success with non-members, since they were the majority of those who attended, so our organization can partner with the garden club can reach out to thank them for coming to their chosen location. Soliciting membership can also be presented to those living in Wisconsin to join the garden club if they’re so inclined!</br>
+
 • The garden club can reach out to the owners of the gardens featured and get feedback of what continues to work and what opportunities could be addressed.  A glaring fix would be the registration process (the ‘Member buying a General Admission ticket’ issue can and should be stamped out by next year).  Networking with other gardeners and willing horticulturists in Wisconsin can also lead to a potential partnership, showing off a property that most of the public might have overlooked.</br> 
+
 • Even if they were at the bottom financially, I’d still encourage the garden club to make more EV class events. It would show that the club has a much higher value proposition for being a member. If general admission attendees were wowed this year and became members, then next year the anticipation for that event could potentially bring in the curious. If the club is ambivalent about risking higher priced events, have the top performing locations such as ‘Mushrooms’ and ‘Magic’ at one time in the late morning or early afternoon rather than two time slots. Attendance numbers from locals and out of towners are more than likely to increase knowing that they have time to arrive.</br>
 
 While it is always at the discretion of the garden club’s leadership, the data that was presented to them serve as the foundation of a strategy simple and flexible enough to follow while adding or removing elements that don’t focus on improving the Summer Series.</br>
