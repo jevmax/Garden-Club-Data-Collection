@@ -1,0 +1,12 @@
+Bring 'CID_' to ID number
+=CONCAT("CID_",B5)
+
+Find first name
+=LEFT(C5, FIND(" ", C5) - 1)
+
+Get random last name initial
+=CONCAT(CHAR(RANDBETWEEN(65,90)), ".")
+
+
+Both together
+=CONCAT(D5, " ", E5)

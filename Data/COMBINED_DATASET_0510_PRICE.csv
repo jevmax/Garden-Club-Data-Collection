@@ -1,0 +1,806 @@
+Member ID,Gift Date,Name,Member Rank,Event ID,Amount,Adjustment Reason,Credits Used,Attendee Count,Note
+CID_107545924,6/21/2023,Bob K.,Garden Friend,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_134234,4/17/2023,Carol T.,Garden Friend,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_66187,5/2/2023,Cheryl Q.,Garden Friend,OD23 GARDEN WI Ba 24,$5.00 ,none,0,1,purchased as Member
+CID_107521856,6/20/2023,Renee E.,Individual,OD23 GARDEN WI Ba 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107544769,4/7/2023,Georgia L.,Individual,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107504781,4/11/2023,James D.,Individual,OD23 GARDEN WI Ba 24,$20.00 ,none,0,4,purchased as Member
+CID_107515566,4/11/2023,Sharon C.,Individual,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_115097,5/26/2023,Dale S.,Individual,OD23 GARDEN WI Ba 24,$20.00 ,none,0,4,purchased as Member
+CID_45281,6/12/2023,Randy R.,Individual,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561442,6/26/2023,Joanne F.,Individual,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107530140,6/22/2023,Ryan D.,Individual,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107558631,4/11/2023,Sharon V.,Individual,OD23 GARDEN WI Ba 24,$15.00 ,none,0,3,purchased as Member
+CID_107550029,3/3/2023,James X.,Individual,OD23 GARDEN WI Ba 24,$15.00 ,none,0,3,purchased as Member
+CID_107528167,3/20/2023,Brenda R.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_107526691,4/17/2023,Janet D.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_69392,4/18/2023,Sandra D.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_107497036,4/26/2023,Vera H.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107529949,6/16/2023,Elaine P.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_95922,6/13/2023,Susan H.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_107556829,6/5/2023,Karin E.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_107556998,5/31/2023,Claudia B.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_107491170,5/9/2023,Candy A.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_73696,5/17/2023,Barbara F.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_107561204,6/19/2023,James C.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_107530247,6/26/2023,Carol A.,Individual,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Member
+CID_107561349,6/22/2023,Tracy G.,Individual,OD23 GARDEN WI Ba 24,$0.00 ,none,1,1,purchased as Member
+CID_107535853,6/26/2023,Anne D.,Individual,OD23 GARDEN WI Ba 24,$5.00 ,none,0,1,purchased as Member
+CID_107561205,6/19/2023,Alice C.,Individual,OD23 GARDEN WI Ba 24,$5.00 ,none,0,1,purchased as Member
+CID_107556730,5/17/2023,Patricia X.,Individual,OD23 GARDEN WI Ba 24,$5.00 ,none,0,1,purchased as Member
+CID_107554906,5/10/2023,Colleen F.,Individual,OD23 GARDEN WI Ba 24,$5.00 ,none,2,3,purchased as Member
+CID_107526879,6/5/2023,Lilly F.,Individual,OD23 GARDEN WI Ba 24,$5.00 ,none,0,1,purchased as Member
+CID_107548313,3/9/2023,Barbara M.,Individual,OD23 GARDEN WI Ba 24,$5.00 ,none,0,1,purchased as Member
+CID_107541135,3/9/2023,Judith M.,Supporting/Family,OD23 GARDEN WI Ba 24,$25.00 ,none,0,5,purchased as Member
+CID_107559958,5/4/2023,Pamela I.,Supporting/Family,OD23 GARDEN WI Ba 24,$20.00 ,none,0,4,purchased as Member
+CID_107526167,4/14/2023,Dale U.,Supporting/Family,OD23 GARDEN WI Ba 24,$10.00 ,none,0,2,purchased as Member
+CID_107549989,3/28/2023,Kathleen G.,NonMember,OD23 GARDEN WI Ba 24,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107558910,3/3/2023,Melissa L.,NonMember,OD23 GARDEN WI Ba 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107548381,5/22/2023,Helen P.,NonMember,OD23 GARDEN WI Ba 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107557134,5/26/2023,Dede F.,NonMember,OD23 GARDEN WI Ba 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107561277,6/19/2023,Sharon R.,NonMember,OD23 GARDEN WI Ba 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107561267,6/19/2023,Sue Q.,NonMember,OD23 GARDEN WI Ba 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107560393,5/22/2023,Timothy C.,NonMember,OD23 GARDEN WI Ba 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107556443,5/1/2023,Renee G.,NonMember,OD23 GARDEN WI Ba 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107551580,3/22/2023,Vicki G.,NonMember,OD23 GARDEN WI Ba 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107519698,3/3/2023,Larry J.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559006,3/13/2023,Mark R.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107554475,4/7/2023,Joan I.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107553099,4/7/2023,Andrea A.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555569,4/7/2023,Kathleen Z.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549500,4/11/2023,Richard P.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559620,4/17/2023,Heidi H.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560270,5/16/2023,Brianna L.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559983,5/4/2023,Stacey Y.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560410,5/22/2023,Elizabeth I.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549687,5/22/2023,James X.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559891,5/30/2023,Linda B.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107529203,6/1/2023,Deborah M.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560876,6/5/2023,Mary Z.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107554237,6/12/2023,Stewart L.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561067,6/12/2023,Catherine O.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561140,6/14/2023,Mary Q.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550924,6/15/2023,Douglas D.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559415,6/15/2023,Amy Y.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560114,6/15/2023,Patricia F.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550195,6/23/2023,Barbara G.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107545939,6/23/2023,Mary X.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556490,6/26/2023,Megan D.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107503204,6/26/2023,Virginia X.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555849,6/26/2023,Bonnie D.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561447,6/26/2023,Jeanne F.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561448,6/26/2023,Jeffery B.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561450,6/26/2023,Daniel U.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107500173,6/26/2023,Jeffrey Z.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561451,6/26/2023,Nanlee Q.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107541582,6/26/2023,Barbara Y.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561457,6/26/2023,Doug D.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556949,6/26/2023,Deborah W.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561467,6/26/2023,Carol T.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107505533,6/26/2023,Mary A.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561326,6/21/2023,Kelly J.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556692,6/21/2023,Mary R.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556902,6/22/2023,Susan J.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561359,6/22/2023,Andrea O.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561391,6/23/2023,Carolyn X.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561395,6/23/2023,Curt U.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561402,6/23/2023,Evelyn E.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561420,6/26/2023,Farah O.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561382,6/26/2023,Dennis O.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561431,6/26/2023,Linda B.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561288,6/19/2023,Marcia Y.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_68492,6/20/2023,Charles I.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107544945,6/16/2023,Carol S.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561192,6/16/2023,Robert W.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107539898,6/19/2023,Jeannine Z.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107539953,6/19/2023,Barbara Z.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107539953,6/19/2023,Barbara C.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560358,5/22/2023,Jean N.,NonMember,OD23 GARDEN WI Ba 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107548324,3/10/2023,Lynn X.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559248,4/4/2023,Diane G.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107537304,4/7/2023,Annette P.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550932,3/24/2023,Laura X.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559123,3/24/2023,Kay Y.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556017,3/28/2023,Margaret B.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107555799,3/20/2023,Kristine R.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545943,3/20/2023,Sally W.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107549295,3/3/2023,Ingrid E.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550425,4/18/2023,Kathleen Y.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559652,4/18/2023,Nancy Q.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550395,4/24/2023,Nancy Y.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559837,4/28/2023,Clare E.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561176,6/15/2023,Julia Z.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556360,6/13/2023,Mary A.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107555568,6/13/2023,Margaret C.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556995,6/14/2023,Jan L.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107542867,6/12/2023,Emily W.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551113,6/12/2023,Shinji Z.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107554222,6/5/2023,Laurel N.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107554222,6/5/2023,Laurel Z.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107560595,5/30/2023,Kathryn D.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559983,6/19/2023,Stacey P.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561306,6/20/2023,Jay O.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556691,6/20/2023,Dawn M.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561312,6/20/2023,Rob H.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551113,6/20/2023,Shinji G.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561302,6/20/2023,Beverly U.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550328,6/19/2023,Susan K.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556974,6/19/2023,Sarah Z.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561288,6/26/2023,Marcia T.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556623,6/26/2023,Joan P.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107555855,6/22/2023,Sunit P.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107555853,6/21/2023,Ginger H.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561440,6/26/2023,Patricia Y.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561440,6/26/2023,Patricia H.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556432,6/23/2023,Shari V.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545926,6/23/2023,Charlie D.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545572,6/23/2023,Susan C.,NonMember,OD23 GARDEN WI Ba 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561413,6/26/2023,Susanna Y.,Garden Friend,OD23 GARDEN WI Ba 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107560690,6/5/2023,Jan N.,Garden Friend,OD23 GARDEN WI Ba 25,$20.00 ,none,0,4,purchased as Member
+CID_107529500,6/20/2023,Donald O.,Garden Friend,OD23 GARDEN WI Ba 25,$10.00 ,none,0,2,purchased as Member
+CID_10991,6/20/2023,Mary U.,Individual,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549783,6/15/2023,Virginia T.,Individual,OD23 GARDEN WI Ba 25,$20.00 ,none,0,4,purchased as Member
+CID_107500280,6/19/2023,Judy E.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551559,6/19/2023,Lori B.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,2,purchased as Member
+CID_107506765,6/5/2023,Trudy N.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550263,5/24/2023,Kirstin B.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,2,purchased as Member
+CID_107495947,5/11/2023,Diane I.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,2,purchased as Member
+CID_107559960,5/4/2023,Linda G.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,2,purchased as Member
+CID_107549290,4/12/2023,Lisa K.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,2,purchased as Member
+CID_107559286,4/7/2023,Joy K.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,2,purchased as Member
+CID_103137,4/7/2023,Paula C.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,2,purchased as Member
+CID_107549948,6/26/2023,Alicia A.,Individual,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561313,6/26/2023,Ann S.,Individual,OD23 GARDEN WI Ba 25,$5.00 ,none,0,1,purchased as Member
+CID_107552712,6/12/2023,James S.,Supporting/Family,OD23 GARDEN WI Ba 25,$40.00 ,none,0,8,purchased as Member
+CID_107500124,4/11/2023,Leslie Y.,Supporting/Family,OD23 GARDEN WI Ba 25,$20.00 ,none,0,4,purchased as Member
+CID_107528363,4/17/2023,Diana L.,Supporting/Family,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107530094,5/15/2023,James Y.,Supporting/Family,OD23 GARDEN WI Ba 25,$20.00 ,none,0,4,purchased as Member
+CID_107530118,5/11/2023,Donna Q.,NonMember,OD23 GARDEN WI Ba 25,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107560394,5/22/2023,Mary E.,NonMember,OD23 GARDEN WI Ba 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107556365,6/6/2023,Ellen K.,NonMember,OD23 GARDEN WI Ba 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107559450,4/11/2023,Elizabeth A.,NonMember,OD23 GARDEN WI Ba 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107559362,4/7/2023,Gloria A.,NonMember,OD23 GARDEN WI Ba 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107530229,6/20/2023,Robin E.,NonMember,OD23 GARDEN WI Ba 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561300,6/20/2023,Julie L.,NonMember,OD23 GARDEN WI Ba 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107550957,6/19/2023,Jeffrey V.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561422,6/26/2023,Martha C.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556970,6/26/2023,Caroline I.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561452,6/26/2023,Cindy Y.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561468,6/26/2023,Nancy E.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560242,6/21/2023,Mike H.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561325,6/21/2023,Pamela I.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561337,6/21/2023,Katelin C.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561338,6/21/2023,Linda R.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551116,6/22/2023,Sharon O.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107529891,6/23/2023,Patti I.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551498,6/26/2023,Judy Z.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551009,6/26/2023,Bonita N.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561478,6/26/2023,Barb E.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561483,6/26/2023,Kelsie H.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107540836,4/7/2023,Jill M.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107548325,4/4/2023,David K.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560294,5/18/2023,Lynn G.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556890,6/8/2023,Jamie N.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107545941,6/12/2023,Ann R.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107529909,6/12/2023,Wendy W.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550996,5/30/2023,Deborah C.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560578,5/30/2023,Gail T.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551009,6/13/2023,Bonita B.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549530,6/13/2023,Mary B.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107519689,6/14/2023,Kendall M.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107545995,5/9/2023,Gary H.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107537010,6/19/2023,Tami K.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550329,6/19/2023,Sally B.,NonMember,OD23 GARDEN WI Ba 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550095,6/19/2023,Anne F.,NonMember,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556630,6/12/2023,Ursula A.,NonMember,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550324,3/13/2023,Jill Q.,NonMember,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107526671,3/13/2023,Connie K.,NonMember,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559027,3/14/2023,Doris I.,NonMember,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556984,6/26/2023,Anett Q.,NonMember,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561335,6/21/2023,Annemarie H.,NonMember,OD23 GARDEN WI Ba 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107529500,8/1/2023,Donald I.,Garden Friend,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Member
+CID_66187,5/2/2023,Cheryl N.,Garden Friend,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107530176,6/13/2023,Elizabeth L.,Individual,OD23 GARDEN WI Dan19,$25.00 ,none,2,7,purchased as Member
+CID_107539894,8/22/2023,Stephanie Q.,Individual,OD23 GARDEN WI Dan19,$30.00 ,none,0,6,purchased as Member
+CID_67583,8/22/2023,Patricia H.,Individual,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107544769,5/10/2023,Georgia F.,Individual,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549783,8/8/2023,Virginia Y.,Individual,OD23 GARDEN WI Dan19,$20.00 ,none,0,4,purchased as Member
+CID_107554906,8/15/2023,Colleen W.,Individual,OD23 GARDEN WI Dan19,$15.00 ,none,0,3,purchased as Member
+CID_107550029,3/3/2023,James K.,Individual,OD23 GARDEN WI Dan19,$15.00 ,none,0,3,purchased as Member
+CID_107545891,3/16/2023,Kellee D.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107528167,3/20/2023,Brenda W.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107559184,3/31/2023,Kris B.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_115097,5/26/2023,Dale K.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,2,4,purchased as Member
+CID_107559286,6/30/2023,Joy Y.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107495947,8/10/2023,Diane P.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107485475,8/15/2023,Barbara Y.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107544244,8/15/2023,Debrah B.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107526691,8/18/2023,Janet U.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107528217,8/18/2023,Claudia S.,Individual,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107500151,8/15/2023,Eileen C.,Individual,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107558631,8/17/2023,Sharon O.,Individual,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107550263,7/11/2023,Kirstin O.,Individual,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107554329,6/22/2023,Pamela T.,Individual,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107561205,6/19/2023,Alice D.,Individual,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107548085,3/6/2023,Nancy G.,Individual,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107548313,3/9/2023,Barbara Z.,Individual,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107541193,6/9/2023,Carol V.,Supporting/Family,OD23 GARDEN WI Dan19,$120.00 ,none,0,24,purchased as Member
+CID_107530602,8/22/2023,John K.,Supporting/Family,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107500124,6/12/2023,Leslie H.,Supporting/Family,OD23 GARDEN WI Dan19,$20.00 ,none,0,4,purchased as Member
+CID_107526167,5/17/2023,Dale L.,Supporting/Family,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107550339,6/28/2023,Bruce Z.,Supporting/Family,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107530094,6/13/2023,James Q.,Supporting/Family,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107545579,8/18/2023,Jeff E.,Supporting/Family,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107561875,8/18/2023,Roger Y.,Supporting/Family,OD23 GARDEN WI Dan19,$10.00 ,none,0,2,purchased as Member
+CID_107558878,8/8/2023,Judith N.,Supporting/Family,OD23 GARDEN WI Dan19,$5.00 ,none,0,1,purchased as Member
+CID_107561468,7/5/2023,Nancy C.,NonMember,OD23 GARDEN WI Dan19,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107526516,7/24/2023,Maureen V.,NonMember,OD23 GARDEN WI Dan19,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107557134,8/1/2023,Dede D.,NonMember,OD23 GARDEN WI Dan19,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107562088,7/31/2023,Andrew I.,NonMember,OD23 GARDEN WI Dan19,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107562285,8/9/2023,Linda Z.,NonMember,OD23 GARDEN WI Dan19,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107550419,6/8/2023,Paul F.,NonMember,OD23 GARDEN WI Dan19,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107549876,3/31/2023,Joan Y.,NonMember,OD23 GARDEN WI Dan19,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107530237,8/18/2023,Zannah C.,NonMember,OD23 GARDEN WI Dan19,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107550512,8/22/2023,Maureen A.,NonMember,OD23 GARDEN WI Dan19,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107556902,8/18/2023,Susan F.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107562485,8/22/2023,Ann X.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107527130,8/18/2023,Rebecca N.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550195,8/18/2023,Barbara L.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107520415,8/17/2023,Frances L.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107562411,8/17/2023,Patricia I.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107530036,8/18/2023,Anne J.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_53718,8/18/2023,Lynette W.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107489310,8/22/2023,Sheldon I.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107562447,8/22/2023,Dale R.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107562450,8/22/2023,Jeanette K.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560333,5/19/2023,Lynn X.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107558892,3/3/2023,Joanne C.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560900,6/6/2023,Barbara T.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551053,6/12/2023,Lynn L.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550619,6/12/2023,Carol S.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550784,6/13/2023,Grace P.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555508,6/13/2023,Frederic T.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550620,6/16/2023,Katherine U.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550200,6/22/2023,Tonieh R.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556314,8/15/2023,Ashleigh T.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550957,8/3/2023,Jeffrey D.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550269,8/15/2023,Sara B.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107527177,8/16/2023,Ann E.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107562394,8/16/2023,Angela K.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107562263,8/8/2023,Wayne Y.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107562063,7/31/2023,Jeanine S.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550328,7/13/2023,Susan Z.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561828,7/17/2023,Glenn R.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559983,7/19/2023,Stacey B.,NonMember,OD23 GARDEN WI Dan19,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555799,3/20/2023,Kristine E.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545943,3/20/2023,Sally N.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107560301,5/18/2023,Susan S.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559248,4/4/2023,Diane O.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107537304,4/7/2023,Annette I.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107548328,6/12/2023,Elizabeth H.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562378,8/15/2023,Vee S.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562379,8/15/2023,Donalda P.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562286,8/9/2023,Nicole A.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562319,8/11/2023,Lisa Z.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562400,8/16/2023,Kristina W.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562400,8/17/2023,Kristina X.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107500443,8/8/2023,Donna H.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550395,7/19/2023,Nancy H.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561828,7/17/2023,Glenn H.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550331,7/31/2023,Karen R.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562025,7/28/2023,Barbara V.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562273,8/8/2023,Kirsten F.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107549989,8/1/2023,Kathleen C.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107528105,8/22/2023,Mary Z.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562395,8/22/2023,Alison L.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107528104,8/22/2023,Sandra X.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107517153,8/22/2023,Deborah Y.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556949,8/22/2023,Deborah U.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107500320,8/17/2023,Wendy N.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107533881,8/17/2023,Marilyn Z.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107502763,8/18/2023,Cathy K.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107558593,8/16/2023,Katherine H.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551759,8/16/2023,Rachelle V.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551113,8/18/2023,Shinji O.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107562470,8/22/2023,Kristina Z.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107493487,8/22/2023,Doug Q.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561443,8/22/2023,Barbara O.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561447,8/22/2023,Jeanne L.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550674,8/22/2023,Melanie D.,NonMember,OD23 GARDEN WI Dan19,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545924,6/21/2023,Bob P.,Garden Friend,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561346,6/22/2023,Denise V.,Garden Friend,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107521856,6/26/2023,Renee U.,Individual,OD23 GARDEN WI Kn 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107544769,4/7/2023,Georgia U.,Individual,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107515566,4/11/2023,Sharon I.,Individual,OD23 GARDEN WI Kn 24,$20.00 ,none,0,4,purchased as Member
+CID_107504781,4/11/2023,James R.,Individual,OD23 GARDEN WI Kn 24,$20.00 ,none,0,4,purchased as Member
+CID_107526529,5/15/2023,Jean R.,Individual,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_115097,5/26/2023,Dale J.,Individual,OD23 GARDEN WI Kn 24,$20.00 ,none,0,4,purchased as Member
+CID_45281,6/12/2023,Rand F.,Individual,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107500280,6/19/2023,Judy C.,Individual,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107530140,6/22/2023,Ryan U.,Individual,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107554906,5/10/2023,Colleen C.,Individual,OD23 GARDEN WI Kn 24,$15.00 ,none,0,3,purchased as Member
+CID_107558631,4/11/2023,Sharon K.,Individual,OD23 GARDEN WI Kn 24,$15.00 ,none,0,3,purchased as Member
+CID_107550029,3/3/2023,James M.,Individual,OD23 GARDEN WI Kn 24,$15.00 ,none,0,3,purchased as Member
+CID_107526691,4/17/2023,Janet Q.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_69392,4/18/2023,Sandra J.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107497036,4/26/2023,Vera I.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559286,4/7/2023,Joy Y.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107491170,5/9/2023,Candy S.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556998,5/31/2023,Claudia I.,Individual,OD23 GARDEN WI Kn 24,$0.00 ,none,2,2,purchased as Member
+CID_95922,6/13/2023,Susan C.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107559533,6/12/2023,Jill L.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107555710,6/6/2023,Mary H.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,1,3,purchased as Member
+CID_107556829,6/5/2023,Karin V.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107483469,6/23/2023,Mary K.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107530247,6/26/2023,Carol T.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561313,6/20/2023,Ann Z.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107549457,6/21/2023,Deborah U.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107561204,6/19/2023,James R.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107529949,6/16/2023,Elaine L.,Individual,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107561205,6/19/2023,Alice D.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_107551974,6/21/2023,Rachel U.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_107535853,6/26/2023,Anne E.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_107561349,6/22/2023,Tracy M.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_107526879,6/5/2023,Lilly A.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_107554171,6/12/2023,Janet G.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_65710,6/5/2023,Claudia H.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_107526879,6/14/2023,Lilly M.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_73696,5/17/2023,Barbara X.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,1,2,purchased as Member
+CID_107556730,5/17/2023,Patricia N.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_107548085,3/6/2023,Nancy O.,Individual,OD23 GARDEN WI Kn 24,$5.00 ,none,0,1,purchased as Member
+CID_107541135,3/9/2023,Judith U.,Supporting/Family,OD23 GARDEN WI Kn 24,$25.00 ,none,0,5,purchased as Member
+CID_107559958,5/4/2023,Pamela P.,Supporting/Family,OD23 GARDEN WI Kn 24,$20.00 ,none,0,4,purchased as Member
+CID_107526167,4/14/2023,Dale O.,Supporting/Family,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Member
+CID_107545579,6/26/2023,Jeff P.,Supporting/Family,OD23 GARDEN WI Kn 24,$10.00 ,none,2,4,purchased as Member
+CID_107554169,6/12/2023,Jane C.,Supporting/Family,OD23 GARDEN WI Kn 24,$5.00 ,none,1,2,purchased as Member
+CID_107557008,5/30/2023,Laura P.,Supporting/Family,OD23 GARDEN WI Kn 24,$5.00 ,none,1,2,purchased as Member
+CID_107559958,5/19/2023,Pamela X.,Supporting/Family,OD23 GARDEN WI Kn 24,$5.00 ,none,1,2,purchased as Member
+CID_107559571,4/17/2023,Kristin J.,Supporting/Family,OD23 GARDEN WI Kn 24,$5.00 ,none,1,2,purchased as Member
+CID_107549989,3/28/2023,Kathleen A.,NonMember,OD23 GARDEN WI Kn 24,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107549408,4/27/2023,Heather M.,NonMember,OD23 GARDEN WI Kn 24,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107558910,3/3/2023,Melissa S.,NonMember,OD23 GARDEN WI Kn 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107548381,5/22/2023,Helen E.,NonMember,OD23 GARDEN WI Kn 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107557134,5/26/2023,Dede F.,NonMember,OD23 GARDEN WI Kn 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107561332,6/21/2023,Linda F.,NonMember,OD23 GARDEN WI Kn 24,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107559983,6/26/2023,Stacey Z.,NonMember,OD23 GARDEN WI Kn 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561421,6/26/2023,Katherine Y.,NonMember,OD23 GARDEN WI Kn 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561267,6/19/2023,Sue E.,NonMember,OD23 GARDEN WI Kn 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107560262,5/16/2023,Michelle C.,NonMember,OD23 GARDEN WI Kn 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107551580,3/22/2023,Vicki T.,NonMember,OD23 GARDEN WI Kn 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107549500,4/11/2023,Richard Y.,NonMember,OD23 GARDEN WI Kn 24,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107519698,3/3/2023,Larry D.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,3,purchased as Gen.Ad
+CID_107553099,4/7/2023,Andrea S.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555569,4/7/2023,Kathleen X.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559620,4/17/2023,Heidi H.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560282,5/17/2023,Lisa X.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560403,5/22/2023,Bradley A.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549687,5/22/2023,James U.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556720,6/5/2023,Lisa T.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560876,6/5/2023,Mary N.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556749,6/5/2023,Cynthia O.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107529203,6/1/2023,Deborah W.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560358,5/22/2023,Jean W.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107554237,6/12/2023,Stewart W.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561067,6/12/2023,Catherine C.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550784,6/13/2023,Grace T.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555508,6/13/2023,Frederic Z.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561238,6/19/2023,Katherine T.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107539953,6/19/2023,Barbara A.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561140,6/14/2023,Mary H.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550924,6/15/2023,Douglas R.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559415,6/15/2023,Amy P.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107544945,6/16/2023,Carol Z.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561192,6/16/2023,Robert N.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107539898,6/19/2023,Jeannine W.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556686,6/19/2023,Vicki Q.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561326,6/21/2023,Kelly P.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561328,6/21/2023,Elizabeth J.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556692,6/21/2023,Mary W.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_31722,6/19/2023,Tim M.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561294,6/19/2023,David I.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561304,6/20/2023,Robert W.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_68492,6/20/2023,Charles Q.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561307,6/20/2023,Michael I.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107503204,6/26/2023,Virginia L.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107526689,6/26/2023,Natalie P.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561447,6/26/2023,Jeanne A.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561448,6/26/2023,Jeffery V.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107541582,6/26/2023,Barbara J.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561455,6/26/2023,Susan D.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551547,6/26/2023,Colleen M.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556949,6/26/2023,Deborah V.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107545894,6/21/2023,Connie Z.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561353,6/22/2023,Howard N.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556902,6/22/2023,Susan U.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561359,6/22/2023,Andrea O.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561367,6/22/2023,Barb U.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107545939,6/23/2023,Mary Y.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561382,6/23/2023,Dennis N.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561383,6/23/2023,Debra N.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561395,6/23/2023,Curt V.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561396,6/23/2023,Genevieve P.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561402,6/23/2023,Evelyn P.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561426,6/26/2023,Mary X.,NonMember,OD23 GARDEN WI Kn 24,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559248,4/4/2023,Diane V.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,2,purchased as Gen.Ad
+CID_107537304,4/7/2023,Annette F.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559837,4/28/2023,Clare N.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550425,4/18/2023,Kathleen V.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559652,4/18/2023,Nancy T.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550395,4/24/2023,Nancy C.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550932,3/24/2023,Laura R.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559123,3/24/2023,Kay Z.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556017,3/28/2023,Margaret X.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107549295,3/3/2023,Ingrid P.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107548324,3/10/2023,Lynn W.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107555799,3/20/2023,Kristine W.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545943,3/20/2023,Sally U.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107560595,5/30/2023,Kathryn Q.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107560616,5/31/2023,Mary H.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107526530,5/31/2023,Susan F.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107554222,6/5/2023,Laurel C.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545895,6/8/2023,Lissa A.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107554222,6/5/2023,Laurel O.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556623,6/26/2023,Joan E.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561363,6/22/2023,Thomas I.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545934,6/26/2023,Lori Y.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556432,6/23/2023,Shari R.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545926,6/23/2023,Charlie N.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107527030,6/26/2023,Jilaine V.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561312,6/20/2023,Rob S.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561306,6/20/2023,Jay G.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556691,6/20/2023,Dawn C.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556974,6/19/2023,Sarah U.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561281,6/19/2023,Ethel U.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561176,6/15/2023,Julia O.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556360,6/12/2023,Mary S.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107542867,6/12/2023,Emily S.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556995,6/14/2023,Jan M.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561274,6/19/2023,Sabine R.,NonMember,OD23 GARDEN WI Kn 24,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107560690,6/26/2023,Susanna O.,Garden Friend,OD23 GARDEN WI Kn 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561210,6/5/2023,Jan S.,Garden Friend,OD23 GARDEN WI Kn 25,$20.00 ,none,0,4,purchased as Member
+CID_107529500,6/19/2023,Mary Z.,Garden Friend,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_66187,6/20/2023,Donald G.,Garden Friend,OD23 GARDEN WI Kn 25,$10.00 ,none,0,2,purchased as Member
+CID_107487093,5/2/2023,Cheryl D.,Garden Friend,OD23 GARDEN WI Kn 25,$5.00 ,none,0,1,purchased as Member
+CID_10991,6/20/2023,Roberta H.,Garden Sustainer,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107495947,6/20/2023,Mary Q.,Individual,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Member
+CID_107506765,5/11/2023,Diane E.,Individual,OD23 GARDEN WI Kn 25,$10.00 ,none,0,2,purchased as Member
+CID_107528167,6/5/2023,Trudy K.,Individual,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_103137,3/20/2023,Brenda L.,Individual,OD23 GARDEN WI Kn 25,$10.00 ,none,0,2,purchased as Member
+CID_107526907,4/7/2023,Paula S.,Individual,OD23 GARDEN WI Kn 25,$10.00 ,none,0,2,purchased as Member
+CID_107549290,5/4/2023,Joelyn C.,Individual,OD23 GARDEN WI Kn 25,$10.00 ,none,0,2,purchased as Member
+CID_107549948,4/12/2023,Lisa B.,Individual,OD23 GARDEN WI Kn 25,$10.00 ,none,0,2,purchased as Member
+CID_107556675,6/26/2023,Alicia B.,Individual,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107552712,6/26/2023,Timothy F.,Individual,OD23 GARDEN WI Kn 25,$10.00 ,none,0,2,purchased as Member
+CID_107561340,6/12/2023,James F.,Supporting/Family,OD23 GARDEN WI Kn 25,$40.00 ,none,0,8,purchased as Member
+CID_107500124,6/21/2023,Susan P.,Supporting/Family,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107528363,4/11/2023,Leslie B.,Supporting/Family,OD23 GARDEN WI Kn 25,$20.00 ,none,0,4,purchased as Member
+CID_107530094,4/17/2023,Diana Z.,Supporting/Family,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556897,6/13/2023,James O.,Supporting/Family,OD23 GARDEN WI Kn 25,$10.00 ,none,0,2,purchased as Member
+CID_107530118,6/12/2023,Tara J.,Supporting/Family,OD23 GARDEN WI Kn 25,$5.00 ,none,1,2,purchased as Member
+CID_107556365,5/11/2023,Donna X.,NonMember,OD23 GARDEN WI Kn 25,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107560394,6/6/2023,Ellen D.,NonMember,OD23 GARDEN WI Kn 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107559362,5/22/2023,Mary O.,NonMember,OD23 GARDEN WI Kn 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107559450,4/7/2023,Gloria F.,NonMember,OD23 GARDEN WI Kn 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107530229,4/11/2023,Elizabeth K.,NonMember,OD23 GARDEN WI Kn 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561300,6/20/2023,Robin R.,NonMember,OD23 GARDEN WI Kn 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561485,6/20/2023,Julie D.,NonMember,OD23 GARDEN WI Kn 25,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561486,6/26/2023,Robert L.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561290,6/26/2023,Laura Y.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550957,6/19/2023,Mark U.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556970,6/19/2023,Jeffrey N.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561477,6/26/2023,Caroline A.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551009,6/26/2023,Annette P.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560242,6/26/2023,Bonita H.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561325,6/21/2023,Mike E.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561337,6/21/2023,Pamela C.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561338,6/21/2023,Katelin U.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551116,6/21/2023,Linda D.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107529891,6/22/2023,Sharon S.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561415,6/23/2023,Patti Z.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551009,6/26/2023,Pam Y.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549530,6/13/2023,Bonita H.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107519689,6/13/2023,Mary G.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559891,6/14/2023,Kendall H.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556362,6/15/2023,Linda H.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107537010,6/19/2023,David C.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561280,6/19/2023,Tami O.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107540836,6/19/2023,Sandra T.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559555,4/7/2023,Jill U.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107545995,4/25/2023,Zack I.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559080,5/9/2023,Gary L.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107548325,3/28/2023,Rebecca I.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550324,4/4/2023,David H.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550996,3/13/2023,Jill Z.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560578,5/30/2023,Deborah Q.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560604,5/30/2023,Gail V.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560294,5/30/2023,Carolyn Z.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556890,5/18/2023,Lynn L.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107545941,6/8/2023,Jamie L.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107529909,6/12/2023,Ann Z.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556630,6/12/2023,Wendy G.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551113,6/12/2023,Ursula Q.,NonMember,OD23 GARDEN WI Kn 25,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107526671,6/12/2023,Shinji D.,NonMember,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559027,3/13/2023,Connie H.,NonMember,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550095,3/14/2023,Doris S.,NonMember,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561335,6/19/2023,Anne E.,NonMember,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556984,6/21/2023,Annemarie Y.,NonMember,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561484,6/26/2023,Anett S.,NonMember,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561475,6/26/2023,Daryl L.,NonMember,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107895123,6/26/2023,Barbara P.,NonMember,OD23 GARDEN WI Kn 25,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545924,6/21/2023,Bob U.,Garden Friend,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_65710,6/12/2023,Claudia M.,Individual,OD23 GARDEN WI Koeni,$5.00 ,none,0,1,purchased as Member
+CID_65710,6/12/2023,Claudia X.,Individual,OD23 GARDEN WI Koeni,$5.00 ,none,0,1,purchased as Member
+CID_107561205,6/19/2023,Alice E.,Individual,OD23 GARDEN WI Koeni,$5.00 ,none,0,1,purchased as Member
+CID_107500280,6/19/2023,Judy E.,Individual,OD23 GARDEN WI Koeni,$20.00 ,none,0,1,purchased as Gen.Ad
+CID_107561313,6/20/2023,Ann N.,Individual,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107521856,6/20/2023,Renee L.,Individual,OD23 GARDEN WI Koeni,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107526691,6/20/2023,Janet T.,Individual,OD23 GARDEN WI Koeni,$10.00 ,none,0,2,purchased as Member
+CID_107561349,6/22/2023,Tracy X.,Individual,OD23 GARDEN WI Koeni,$5.00 ,none,0,1,purchased as Member
+CID_107483469,6/23/2023,Mary A.,Individual,OD23 GARDEN WI Koeni,$10.00 ,none,0,2,purchased as Member
+CID_107549791,6/26/2023,Christopher F.,Individual,OD23 GARDEN WI Koeni,$5.00 ,none,0,1,purchased as Member
+CID_103137,6/26/2023,Paula X.,Individual,OD23 GARDEN WI Koeni,$10.00 ,none,0,2,purchased as Member
+CID_107524400,6/26/2023,Polyxeni U.,Individual,OD23 GARDEN WI Koeni,$0.00 ,none,1,1,purchased as Member
+CID_107530247,6/26/2023,Carol M.,Individual,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107535853,6/26/2023,Anne T.,Individual,OD23 GARDEN WI Koeni,$5.00 ,none,0,1,purchased as Member
+CID_107550029,6/26/2023,James F.,Individual,OD23 GARDEN WI Koeni,$15.00 ,none,0,3,purchased as Member
+CID_45281,6/26/2023,Rand N.,Individual,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561473,6/26/2023,Penny O.,Individual,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107552712,6/12/2023,James O.,Supporting/Family,OD23 GARDEN WI Koeni,$25.00 ,none,1,6,purchased as Member
+CID_107559450,6/9/2023,Elizabeth G.,NonMember,OD23 GARDEN WI Koeni,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107559837,6/9/2023,Clare S.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551113,6/12/2023,Shinji R.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551053,6/12/2023,Lynn L.,NonMember,OD23 GARDEN WI Koeni,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107558910,6/12/2023,Melissa U.,NonMember,OD23 GARDEN WI Koeni,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107542867,6/12/2023,Emily S.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561067,6/12/2023,Catherine F.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561140,6/14/2023,Mary D.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550924,6/15/2023,Douglas J.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559415,6/15/2023,Amy V.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107557134,6/15/2023,Dede U.,NonMember,OD23 GARDEN WI Koeni,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107544945,6/16/2023,Carol X.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561192,6/16/2023,Robert D.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107526530,6/16/2023,Susan N.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561229,6/19/2023,Mary V.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561230,6/19/2023,Ana-Maria T.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107549687,6/19/2023,James I.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561272,6/19/2023,Robert L.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556686,6/19/2023,Vicki X.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556974,6/19/2023,Sarah U.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561289,6/19/2023,Heidi Z.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561306,6/20/2023,Jay D.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556691,6/20/2023,Dawn Q.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561312,6/20/2023,Rob A.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107557270,6/20/2023,Diane B.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560403,6/20/2023,Bradley Y.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561326,6/21/2023,Kelly E.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555853,6/21/2023,Ginger B.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556902,6/22/2023,Susan D.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561359,6/22/2023,Andrea V.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107529203,6/22/2023,Deborah H.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107520415,6/22/2023,Frances A.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561382,6/23/2023,Dennis X.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556977,6/23/2023,Mary S.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545926,6/23/2023,Charlie U.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561395,6/23/2023,Curt M.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561396,6/23/2023,Genevieve D.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561420,6/26/2023,Farah Y.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561423,6/26/2023,Susan H.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107530105,6/26/2023,Deborah W.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561426,6/26/2023,Mary O.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561431,6/26/2023,Linda K.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561434,6/26/2023,Raymond Y.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556623,6/26/2023,Joan Y.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107527030,6/26/2023,Jilaine W.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107503204,6/26/2023,Virginia L.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561440,6/26/2023,Patricia W.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561440,6/26/2023,Patricia J.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561443,6/26/2023,Barbara L.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561451,6/26/2023,Nanlee X.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561465,6/26/2023,Marianne Q.,NonMember,OD23 GARDEN WI Koeni,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551497,6/26/2023,Kate L.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551497,6/26/2023,Kate M.,NonMember,OD23 GARDEN WI Koeni,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107530033,4/18/2023,Juliana V.,Individual,OD23 EV MushroomsLog,$20.00 ,none,0,2,purchased as Member
+CID_107551559,4/24/2023,Lori M.,Individual,OD23 EV MushroomsLog,$10.00 ,none,0,1,purchased as Member
+CID_107559533,5/1/2023,Jill R.,Individual,OD23 EV MushroomsLog,$40.00 ,none,0,4,purchased as Member
+CID_107559201,4/7/2023,Patricia I.,NonMember,OD23 EV MushroomsLog,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559644,4/18/2023,Daniel K.,NonMember,OD23 EV MushroomsLog,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107559649,4/20/2023,Chris Lazarski,NonMember,OD23 EV MushroomsLog,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107559610,4/24/2023,Karen H.,NonMember,OD23 EV MushroomsLog,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107550057,5/1/2023,Daniel C.,NonMember,OD23 EV MushroomsLog,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_97005,5/9/2023,Virginia S.,Garden Friend,OD23 GARDEN WI U242,$5.00 ,none,2,3,purchased as Member
+CID_107556998,5/31/2023,Claudia S.,Individual,OD23 GARDEN WI U242,$10.00 ,none,0,2,purchased as Member
+CID_107549989,3/28/2023,Kathleen A.,NonMember,OD23 GARDEN WI U242,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107558910,3/3/2023,Melissa V.,NonMember,OD23 GARDEN WI U242,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107559952,5/2/2023,Rodger V.,NonMember,OD23 GARDEN WI U242,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107559953,5/2/2023,Erica Q.,NonMember,OD23 GARDEN WI U242,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107559125,3/24/2023,Sandra Z.,NonMember,OD23 GARDEN WI U242,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549571,4/11/2023,Elizabeth R.,NonMember,OD23 GARDEN WI U242,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559827,4/27/2023,Barbara Y.,NonMember,OD23 GARDEN WI U242,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550324,3/13/2023,Jill W.,NonMember,OD23 GARDEN WI U242,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107554222,6/5/2023,Laurel N.,NonMember,OD23 GARDEN WI U242,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556017,3/28/2023,Margaret O.,NonMember,OD23 GARDEN WI U242,$0.00 ,event cancelled,0,0,cancelled
+CID_107559450,4/11/2023,Elizabeth W.,NonMember,OD23 GARDEN WI U242,$0.00 ,event cancelled,0,0,cancelled
+CID_107559740,4/24/2023,Karen W.,NonMember,OD23 GARDEN WI U242,$0.00 ,event cancelled,0,0,cancelled
+CID_107559894,5/1/2023,Sharon C.,NonMember,OD23 GARDEN WI U242,$0.00 ,event cancelled,0,0,cancelled
+CID_107560557,5/30/2023,Lida L.,NonMember,OD23 GARDEN WI U242,$0.00 ,event cancelled,0,0,cancelled
+CID_107560497,5/30/2023,Sharon P.,NonMember,OD23 GARDEN WI U242,$0.00 ,event cancelled,0,0,cancelled
+CID_107560586,5/30/2023,Judy O.,NonMember,OD23 GARDEN WI U242,$0.00 ,event cancelled,0,0,cancelled
+CID_107560690,6/5/2023,Jan D.,Garden Friend,OD23 GARDEN WI U252,$20.00 ,none,0,4,purchased as Member
+CID_14876,6/9/2023,Lynde K.,Garden Sustainer,OD23 GARDEN WI U252,$250.00 ,none,0,50,purchased as Member
+CID_107530140,6/22/2023,Ryan A.,Individual,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549783,6/15/2023,Virginia J.,Individual,OD23 GARDEN WI U252,$20.00 ,none,0,4,purchased as Gen.Ad
+CID_107504781,4/11/2023,James I.,Individual,OD23 GARDEN WI U252,$10.00 ,none,0,2,purchased as Member
+CID_107549290,4/12/2023,Lisa S.,Individual,OD23 GARDEN WI U252,$10.00 ,none,0,2,purchased as Member
+CID_107556998,5/31/2023,Claudia Z.,Individual,OD23 GARDEN WI U252,$10.00 ,none,0,2,purchased as Member
+CID_107506765,6/5/2023,Trudy X.,Individual,OD23 GARDEN WI U252,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550263,5/24/2023,Kirstin O.,Individual,OD23 GARDEN WI U252,$10.00 ,none,0,2,purchased as Member
+CID_107550747,6/19/2023,Teddy T.,Individual,OD23 GARDEN WI U252,$10.00 ,none,0,2,purchased as Member
+CID_107561205,6/19/2023,Alice B.,Individual,OD23 GARDEN WI U252,$5.00 ,none,0,1,purchased as Member
+CID_107552712,6/12/2023,James U.,Supporting/Family,OD23 GARDEN WI U252,$40.00 ,none,0,8,purchased as Member
+CID_107561336,6/21/2023,Judy Q.,NonMember,OD23 GARDEN WI U252,$60.00 ,none,0,6,purchased as Gen.Ad
+CID_107530118,5/11/2023,Donna Q.,NonMember,OD23 GARDEN WI U252,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107560408,5/22/2023,Jim A.,NonMember,OD23 GARDEN WI U252,$50.00 ,none,0,5,purchased as Gen.Ad
+CID_107561282,6/19/2023,Kristen Y.,NonMember,OD23 GARDEN WI U252,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107561051,6/12/2023,Linda M.,NonMember,OD23 GARDEN WI U252,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107544580,6/15/2023,Ellen B.,NonMember,OD23 GARDEN WI U252,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561479,6/26/2023,Dawn Z.,NonMember,OD23 GARDEN WI U252,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561482,6/26/2023,Mark L.,NonMember,OD23 GARDEN WI U252,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107561486,6/26/2023,Laura L.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561341,6/21/2023,Jennifer V.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561379,6/23/2023,Kathy M.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561422,6/26/2023,Martha J.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107500342,6/26/2023,Susan J.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560578,6/26/2023,Gail Y.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107542837,6/12/2023,Joann Y.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551099,6/13/2023,Marina F.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561131,6/14/2023,Lisa H.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107519689,6/14/2023,Kendall X.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561270,6/19/2023,Carla I.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561278,6/19/2023,Janet O.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561195,6/16/2023,Barb X.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561219,6/19/2023,Donna D.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560205,5/15/2023,Kris C.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560501,5/26/2023,Deborah P.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560966,6/9/2023,Rita A.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555774,4/19/2023,Kathi Y.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559791,4/26/2023,Kay G.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559824,4/27/2023,Connie L.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559891,5/1/2023,Linda I.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559951,5/2/2023,Mary V.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559983,5/4/2023,Stacey X.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560116,5/9/2023,Nancy J.,NonMember,OD23 GARDEN WI U252,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107526671,3/13/2023,Connie I.,NonMember,OD23 GARDEN WI U252,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559027,3/14/2023,Doris Y.,NonMember,OD23 GARDEN WI U252,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550095,6/19/2023,Anne X.,NonMember,OD23 GARDEN WI U252,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561189,6/16/2023,Kara K.,NonMember,OD23 GARDEN WI U252,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561392,6/23/2023,Karine P.,NonMember,OD23 GARDEN WI U252,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545934,6/26/2023,Lori R.,NonMember,OD23 GARDEN WI U252,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107555855,6/22/2023,Sunit O.,NonMember,OD23 GARDEN WI U252,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107500200,4/12/2023,Margarete V.,Garden Sustainer,OD23 GARDEN WI U2410,$5.00 ,none,2,3,purchased as Member
+CID_107550029,3/3/2023,James B.,Individual,OD23 GARDEN WI U2410,$15.00 ,none,0,3,purchased as Member
+CID_103137,4/7/2023,Paula P.,Individual,OD23 GARDEN WI U2410,$10.00 ,none,0,2,purchased as Member
+CID_107526691,4/17/2023,Janet P.,Individual,OD23 GARDEN WI U2410,$5.00 ,none,1,2,purchased as Member
+CID_69392,4/18/2023,Sandra E.,Individual,OD23 GARDEN WI U2410,$5.00 ,none,1,2,purchased as Member
+CID_107497036,4/26/2023,Vera E.,Individual,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107491170,5/9/2023,Candy U.,Individual,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107554906,5/10/2023,Colleen A.,Individual,OD23 GARDEN WI U2410,$15.00 ,none,0,3,purchased as Member
+CID_73696,5/17/2023,Barbara X.,Individual,OD23 GARDEN WI U2410,$10.00 ,none,0,2,purchased as Member
+CID_107556829,6/5/2023,Karin O.,Individual,OD23 GARDEN WI U2410,$10.00 ,none,0,2,purchased as Member
+CID_107555710,6/6/2023,Mary I.,Individual,OD23 GARDEN WI U2410,$15.00 ,none,0,3,purchased as Member
+CID_107544769,4/7/2023,Georgia F.,Individual,OD23 GARDEN WI U2410,$0.00 ,cancelled,0,0,cancelled
+CID_107515566,4/11/2023,Sharon Q.,Individual,OD23 GARDEN WI U2410,$0.00 ,cancelled,0,0,cancelled
+CID_107541135,3/9/2023,Judith B.,Supporting/Family,OD23 GARDEN WI U2410,$25.00 ,none,0,5,purchased as Member
+CID_107526167,4/14/2023,Dale G.,Supporting/Family,OD23 GARDEN WI U2410,$10.00 ,none,0,2,purchased as Member
+CID_107559958,5/4/2023,Pamela Y.,Supporting/Family,OD23 GARDEN WI U2410,$20.00 ,none,0,4,purchased as Member
+CID_107559958,5/19/2023,Pamela G.,Supporting/Family,OD23 GARDEN WI U2410,$10.00 ,none,0,2,purchased as Member
+CID_107557008,5/30/2023,Laura P.,Supporting/Family,OD23 GARDEN WI U2410,$10.00 ,none,0,2,purchased as Member
+CID_107519698,3/3/2023,Larry N.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549295,3/3/2023,Ingrid O.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107548324,3/10/2023,Lynn R.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559006,3/13/2023,Mark I.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555799,3/20/2023,Kristine R.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545943,3/20/2023,Sally S.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107537304,4/7/2023,Annette U.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559341,4/7/2023,Pat C.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107553099,4/7/2023,Andrea G.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107555569,4/7/2023,Kathleen S.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107549500,4/11/2023,Richard R.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550425,4/18/2023,Kathleen B.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559652,4/18/2023,Nancy S.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107550395,4/24/2023,Nancy C.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559837,4/28/2023,Clare Y.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559856,5/1/2023,Marilyn T.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559864,5/1/2023,Judith B.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107501360,5/1/2023,Aileen O.,NonMember,OD23 GARDEN WI U2410,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107559890,5/1/2023,Sulynn G.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107559974,5/4/2023,Eric V.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_18541,5/4/2023,Kathy T.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107560025,5/5/2023,William J.,NonMember,OD23 GARDEN WI U2410,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107559606,5/9/2023,Doug K.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560165,5/11/2023,Jo E.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560328,5/19/2023,Pauline P.,NonMember,OD23 GARDEN WI U2410,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107560331,5/19/2023,Tami Y.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107560616,5/31/2023,Mary F.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107529203,6/1/2023,Deborah N.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107554222,6/5/2023,Laurel X.,NonMember,OD23 GARDEN WI U2410,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107560852,6/5/2023,Theresa Z.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560882,6/5/2023,Linda S.,NonMember,OD23 GARDEN WI U2410,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556749,6/5/2023,Cynthia Y.,NonMember,OD23 GARDEN WI U2410,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107559074,3/20/2023,Todd G.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107560660,6/1/2023,Kathleen Y.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107549878,3/16/2023,Kathleen G.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107559107,3/22/2023,Laverne B.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107559133,3/24/2023,Sharon D.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107559618,4/17/2023,Karla B.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107559620,4/17/2023,Heidi A.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107559933,5/2/2023,Gayle B.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107560114,5/9/2023,Patricia I.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107557134,5/26/2023,Dede W.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107560497,5/26/2023,Sharon X.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107526530,5/31/2023,Susan W.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107560784,6/5/2023,Deborah L.,NonMember,OD23 GARDEN WI U2410,$0.00 ,none,0,0,cancelled
+CID_107545924,6/21/2023,Bob O.,Garden Friend,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_14876,6/9/2023,Lynde N.,Garden Sustainer,OD23 GARDEN WI U2510,$30.00 ,none,0,6,purchased as Member
+CID_107559533,6/12/2023,Jill T.,Individual,OD23 GARDEN WI U2510,$15.00 ,none,2,5,purchased as Member
+CID_107556675,6/26/2023,Timothy D.,Individual,OD23 GARDEN WI U2510,$10.00 ,none,0,2,purchased as Member
+CID_107529949,6/16/2023,Elaine P.,Individual,OD23 GARDEN WI U2510,$10.00 ,none,0,2,purchased as Member
+CID_107526907,5/4/2023,Joelyn Y.,Individual,OD23 GARDEN WI U2510,$10.00 ,none,0,2,purchased as Member
+CID_107559960,5/4/2023,Linda O.,Individual,OD23 GARDEN WI U2510,$10.00 ,none,0,2,purchased as Member
+CID_107495947,5/11/2023,Diane F.,Individual,OD23 GARDEN WI U2510,$10.00 ,none,0,2,purchased as Member
+CID_107528167,3/20/2023,Brenda Q.,Individual,OD23 GARDEN WI U2510,$10.00 ,none,0,2,purchased as Member
+CID_107561369,6/23/2023,Brad B.,Individual,OD23 GARDEN WI U2510,$5.00 ,none,0,1,purchased as Member
+CID_107529921,4/18/2023,Charlotte Q.,Supporting/Family,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561115,6/14/2023,Carla Y.,Supporting/Family,OD23 GARDEN WI U2510,$10.00 ,none,0,2,purchased as Member
+CID_107554169,6/12/2023,Jane M.,Supporting/Family,OD23 GARDEN WI U2510,$10.00 ,none,0,2,purchased as Member
+CID_107561149,6/15/2023,Cary B.,NonMember,OD23 GARDEN WI U2510,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107556907,6/20/2023,Linette C.,NonMember,OD23 GARDEN WI U2510,$40.00 ,none,0,4,purchased as Gen.Ad
+CID_107561443,6/26/2023,Barbara F.,NonMember,OD23 GARDEN WI U2510,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107560394,5/22/2023,Mary X.,NonMember,OD23 GARDEN WI U2510,$30.00 ,none,0,3,purchased as Gen.Ad
+CID_107560375,5/30/2023,Erin Q.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550996,5/30/2023,Deborah T.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560599,5/30/2023,Jeanne M.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560929,6/8/2023,Dresden T.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559080,3/28/2023,Rebecca B.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107559818,4/27/2023,Linda A.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560227,5/15/2023,Victoria M.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560308,5/18/2023,Nancy F.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560358,5/22/2023,Jean T.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107560375,5/22/2023,Erin Q.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550924,6/15/2023,Douglas D.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561168,6/15/2023,Amy S.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561191,6/16/2023,Jan X.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561192,6/16/2023,Robert R.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107539898,6/19/2023,Jeannine L.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561218,6/19/2023,Anne T.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561223,6/19/2023,Marilyn W.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561253,6/19/2023,Dawn R.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107529909,6/12/2023,Wendy I.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107554237,6/12/2023,Stewart F.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556630,6/12/2023,Ursula L.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561067,6/12/2023,Catherine B.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561091,6/13/2023,Ellen L.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556315,6/14/2023,Linda O.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561126,6/14/2023,Patricia B.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561423,6/26/2023,Susan S.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107556890,6/8/2023,Jamie A.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551496,6/26/2023,Mary Q.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561478,6/26/2023,Barb G.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561326,6/21/2023,Kelly E.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561331,6/21/2023,Sandra E.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107537010,6/19/2023,Tami I.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107550329,6/19/2023,Sally W.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561288,6/19/2023,Marcia H.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561394,6/23/2023,Marcia M.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561422,6/26/2023,Martha I.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107561360,6/22/2023,Susan W.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107551113,6/26/2023,Shinji D.,NonMember,OD23 GARDEN WI U2510,$20.00 ,none,0,2,purchased as Gen.Ad
+CID_107542867,6/12/2023,Emily I.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561334,6/21/2023,Sharon G.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107551497,6/26/2023,Kate R.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561440,6/26/2023,Patricia B.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561447,6/26/2023,Jeanne P.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561480,6/26/2023,Margaret X.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107556984,6/26/2023,Anett V.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107561269,6/19/2023,Kathryn M.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107545895,6/8/2023,Lissa Q.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
+CID_107544580,3/21/2023,Ellen P.,NonMember,OD23 GARDEN WI U2510,$10.00 ,none,0,1,purchased as Gen.Ad
