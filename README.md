@@ -38,7 +38,7 @@ Some things to note before I started:</br>
 •	Our database exports in .csv format, but to continue cleaning the data and making it readable and accurate I immediately changed each dataset to an .xlsx format for those to view in Excel or Google Sheets. </br>
 
 
-My initial idea was to create one large dataset combining all events into one. While this would be the easiest solution, it’d be a bit more difficult to narrow down which event did better than the other.  The data visualization could look more [skewed/off putting], potentially showing that one event did worse than another on a larger scale.  I decided to combine them everything later. 
+My initial idea was to create one large dataset combining all events into one. While this would be the easiest solution, it’d be a bit more difficult to narrow down which event did better than the other.  The data visualization could look more off putting since showing that one event did worse than another on a larger scale.  I decided to combine them everything later. 
 
 Good thing too because a large, combined spreadsheet to query in the beginning was asking for trouble. Some events were priced differently than others due to our membership discounts vs. general admission. Some events are ranged between $5, $10, $30, $40, and $50. I split the data into three datasets based on the range of the ticket prices to maintain accurate totals.
 
