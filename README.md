@@ -23,7 +23,7 @@ The events labeled ‘EV’ are more in-depth and are at a higher price. Rather 
 
 What are the data and tools needed?
 ---
-To meet the objectives this garden club wants I was able to export the necessary data from each event from our overall database and create multiple queries to pull registrants from each event. I’d them convert each spreadsheet into a dataset I can manipulate in SQL so I can look at each event and get what I needed. Excel and SQL (in this instance, Google’s BigQuery SQL sandbox) both have tools to get the answers I need. I’ll use both the split duties that improves my process. Once all these objectives are met, I can then focus on making a visualization for the garden club.
+To meet the objectives this garden club wants I was able to export the necessary data from each event from our overall database and create multiple queries to pull registrants from each event. I’d them convert each spreadsheet into a dataset I can manipulate in SQL through <b>Microsoft SQL Server Management Studio 19</b> so I can look at each event and get what I needed. Excel and SQL (in this instance, Google’s BigQuery SQL sandbox) both have tools to get the answers I need. I’ll use both the split duties that improves my process. Once all these objectives are met, I can then focus on making a visualization for the garden club.
 
 Process
 ---
@@ -43,6 +43,7 @@ My initial idea was to create one large dataset combining all events into one. W
 Good thing too because a large, combined spreadsheet to query in the beginning was asking for trouble. Some events were priced differently than others due to our membership discounts vs. general admission. Some events are ranged between $5, $10, $30, $40, and $50. I split the data into three datasets based on the range of the ticket prices to maintain accurate totals.
 
 <b>Excel</b>: cleaning and fixing the .csv: All cells needed a value to avoid future difficulties in SQL. Any blanks in the spreadsheet were filled with a value such as ‘NonMember’ or ‘none’.
+![test](https://github.com/jevmax/Garden-Club-Data-Collection/blob/main/images/sql_1_1.png?raw=true)
 
  
 <b>SQL</b>: I was going to use bit.io or Google Cloud to import and query my three datasets. However, (and understandably so) I was hit with a paywall when it was time to use INNER JOIN and combine the datasets for what I want. So as an alternative, I used Microsoft SQL Server Management Studio 19 and imported the datasets as Flat File Imports. Plus, this very small database in MSSM can serve as a backup should I need it.
@@ -56,7 +57,7 @@ So what were the key results?</br>
 •	General Admission made up 77% of the 1800 attendees across all events. </br>
 •	‘Ba 24’ had the highest amount of complimentary ticket usage at 10. While it’s wrong to assume that the high attendance to that event is the reason for those tickets being used, it shows that there was a higher chance for them to be used due to the high attendance. </br>
 
-Other results I was able to query in SQL:
+Other results I was able to query in SQL:</br>
 •	Total amount for all events. ($21,225)</br>
 •	Total amount for all events that charged $5 for members and $10 for general admission. ($13,745)</br>
 •	Total amount for all events that charged $30 for members and $40 for general admission. ($2,500)</br>
