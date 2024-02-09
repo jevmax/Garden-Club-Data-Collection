@@ -27,7 +27,8 @@ To meet the objectives this garden club wants I was able to export the necessary
 
 Process
 ---
-Some things to note before I started:
+Some things to note before I started:</br>
+
 •	To protect the privacy of the attendees for this project, I changed the names of participants, the specific locations in Wisconsin to only their ID classification, and the amount spent on tickets while keeping the totals accurate.</br>
 
 •	Some members of our organization will be seen as a member in the dataset but show their purchase as general admission in the ‘Note’ column. This means that they either became a member after the event later or a member registered for the event online without being logged in as a member. </br>
